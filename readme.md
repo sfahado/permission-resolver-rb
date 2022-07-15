@@ -1,4 +1,4 @@
-# Edgescan Interview Programming Exercise
+# Programming Exercise
 
 ## What do I need to do?
 
