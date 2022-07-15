@@ -66,4 +66,3 @@ It acceps a single parameter `permissions` - an array of permissions to sort.
 
 The method should return the array of permissions sorted in dependency order.
 
-## Good Luck!
